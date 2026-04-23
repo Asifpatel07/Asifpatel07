@@ -51,14 +51,17 @@
 
 ### 🔹 AI Commit Generator
 
-* Short description
+* An AI-powered developer tool that generates clean, conventional commit messages from raw git diffs.
 * Tech: React, Node.js
 
 ### 🔹 AI Error Debugger
 
-* Description
-* Tech stack
+* An AI-powered developer tool that analyzes error messages and provides root cause analysis, fixes, and example solutions in real time.
+* Tech: React, Node.js
 
+### 🔹 NetflixGPT
+
+* Tech: React
 
 ---
 
